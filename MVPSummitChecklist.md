@@ -4,7 +4,7 @@ Este checklist é util para qualquer um a caminho do Microsoft MVP Summit. Ele c
 
 Pull Requests são aceitos neste repositório
 
-Primeiramente, RESPEITE O NDA!!
+Primeiramente, ## RESPEITE O NDA!!
 
 ## Pre-Travel
 1. Faça um Backup de seu Smartphone, principalmente caso não utilize auto-sync em cloud.
@@ -26,7 +26,7 @@ Primeiramente, RESPEITE O NDA!!
 1. Tenha seu MVP Number em mãos, ele é necessário para seu Checkin no evento.
 1. Se você é um MCP, tenha em mãos seu MCP ID, e garanta que pode acessar seu MVP transcript. Em anos anteriores, MPCs que tinham o transcript receberam brindes especiais.
 
-## Packing
+## Montando sua mala
 1. A maioria dos eventos é casual (pense em blusas de frio e jeans).
 1. Você provavelmente ganhará algum SWAG de seu time de produto e/ou comprará algo na lojinha. Isso significa que você pode levar algumas roupas a menos, e utilizar as que obteve no evento.
 1. Se você planeja comprar muitas coisas, libere espaço em sua mala, mas lembre-se, as companhias aereas possuem restrição de peso das malas.

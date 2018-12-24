@@ -1,10 +1,11 @@
 # MVPSummitChecklist
-This checklist is useful for anyone who is heading to the Microsoft MVP Summit.
+Este chacklist pode ser utilizado por qualquer um indo para o MVP Summit.
 
-It contains information that can help plan your trip to MVP Summit in Redmond, WA.
+Ele contém informações uteis para planejar sua viagem para o MVP Summit, em Redmond, WA, US.
 
-Note: Pull requests accepted on this repo.
+
 
 ## Authors
 
+* **Julio Arruda** - Versão em PT-BR
 * **Ken Cenerelli** - *Initial work* - [Ken Cenerelli](https://github.com/kencenerelli)

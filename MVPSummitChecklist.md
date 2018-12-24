@@ -4,7 +4,7 @@ Este checklist é util para qualquer um a caminho do Microsoft MVP Summit. Ele c
 
 Pull Requests são aceitos neste repositório
 
-Primeiramente, ## RESPEITE O NDA!!
+Primeiramente, **RESPEITE O NDA!!**
 
 ## Pre-Travel
 1. Faça um Backup de seu Smartphone, principalmente caso não utilize auto-sync em cloud.
@@ -55,11 +55,11 @@ Primeiramente, ## RESPEITE O NDA!!
 1. Se possivel, leve sua caneca para o MVP Summit. Durante o evento, os MVPs desperdiçam muitos copos de papel. Além disso, levar sua propria caneca deixa mais facil já entrar no ônibus tomando um bom café.
 1. Sticker swap: MVPs adoram adesivos. Geralmente existe uma mesa exclusiva para isso, então, leve seus adesivos para compartilhar.
 1. Acompanhe o Twitter e a hashtag [#MVPSummit](https://twitter.com/search?f=tweets&vertical=default&q=%23mvpsummit)para anúncios, festas e/ou encontros. Geralmente ocorrem festas todas as noites. Alguns são especificos do país ou times de produto, atente-se aos detalhes.
-1. RESPEITE O NDA. Você vai ouvir muitas coisas. Guarde oque aprendeu com você, e não compartilhe o conteúdo com outro MVP ou em redes sociais.
+1. **RESPEITE O NDA**. Você vai ouvir muitas coisas. Guarde oque aprendeu com você, e não compartilhe o conteúdo com outro MVP ou em redes sociais.
 
 ## Diversos
 1. Divirta-se!
-1. RESPEITE O NDA. (Eu sei que você já ouviu muito isso.)
+1. **RESPEITE O NDA**. (Eu sei que você já ouviu muito isso.)
 
 ## Resources
 * [MVP Summit Site](https://www.mvp.microsoft.com/en-us/Summit/)
